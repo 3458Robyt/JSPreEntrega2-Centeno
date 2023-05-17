@@ -51,7 +51,6 @@ const RECETAS = [
     });
   }
   
-  // Obtenemos el botón para agregar recetas y el modal que se muestra al hacer click
   const agregarRecetaBtn = document.getElementById("agregarReceta");
   const modal = document.getElementById("modal");
   
